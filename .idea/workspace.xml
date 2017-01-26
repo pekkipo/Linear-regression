@@ -18,8 +18,8 @@
       <file leaf-file-name="Coding-1D-solution.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/Coding-1D-solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="597">
+              <caret line="47" column="89" lean-forward="false" selection-start-line="47" selection-start-column="89" selection-end-line="47" selection-end-column="89" />
               <folding>
                 <element signature="e#26#44#0" expanded="true" />
               </folding>
@@ -27,14 +27,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Moore-law.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/Moore-law.py">
+      <file leaf-file-name="Generalization-and-overfitting.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/Generalization-and-overfitting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="48" column="20" lean-forward="false" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+            <state relative-caret-position="420">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
               <folding>
-                <element signature="e#20#29#0" expanded="true" />
+                <element signature="e#73#91#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="L2-regularization.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/L2-regularization.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overfitting.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MachineLearningExamples/linear_regression_class/overfitting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -42,7 +64,7 @@
       <file leaf-file-name="Multidimensional-solution.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/Multidimensional-solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="-168">
               <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -63,7 +85,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Systolic-pressure.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Systolic-pressure.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/Systolic-pressure.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
@@ -105,26 +127,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data_2d.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/data/data_2d.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="moore.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../MachineLearningExamples/linear_regression_class/moore.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="27" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -138,12 +140,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/project/first.py" />
-        <option value="$PROJECT_DIR$/project/Coding-1D-solution.py" />
         <option value="$PROJECT_DIR$/project/Moore-law.py" />
         <option value="$PROJECT_DIR$/project/Polynomial-regression.py" />
         <option value="$PROJECT_DIR$/project/requirements.txt" />
         <option value="$PROJECT_DIR$/project/Multidimensional-solution.py" />
         <option value="$PROJECT_DIR$/project/Systolic-pressure.py" />
+        <option value="$PROJECT_DIR$/project/Coding-1D-solution.py" />
+        <option value="$PROJECT_DIR$/project/Generalization-and-overfitting.py" />
+        <option value="$PROJECT_DIR$/project/L2-linearization.py" />
+        <option value="$PROJECT_DIR$/project/L2-regularization.py" />
       </list>
     </option>
   </component>
@@ -180,10 +185,6 @@
               <option name="myItemId" value="LinearRegression" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -198,10 +199,6 @@
               <option name="myItemId" value="project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -210,41 +207,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Systolic-pressure">
-    <configuration default="false" name="Coding-1D-solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LinearRegression" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/Coding-1D-solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Moore-law" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LinearRegression" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/Moore-law.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.L2-regularization">
     <configuration default="false" name="Multidimensional-solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,6 +255,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LinearRegression" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/Systolic-pressure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Generalization-and-overfitting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LinearRegression" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/Generalization-and-overfitting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="L2-regularization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LinearRegression" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/L2-regularization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -431,19 +428,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Coding-1D-solution" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Moore-law" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Multidimensional-solution" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Polynomial-regression" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Systolic-pressure" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Multidimensional-solution" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Polynomial-regression" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Systolic-pressure" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Generalization-and-overfitting" />
+      <item index="4" class="java.lang.String" itemvalue="Python.L2-regularization" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Systolic-pressure" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Polynomial-regression" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Multidimensional-solution" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Moore-law" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Coding-1D-solution" />
+        <item index="0" class="java.lang.String" itemvalue="Python.L2-regularization" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Generalization-and-overfitting" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Systolic-pressure" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Polynomial-regression" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Multidimensional-solution" />
       </list>
     </recent_temporary>
   </component>
@@ -461,7 +458,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1126" extended-state="1" />
+    <frame x="0" y="23" width="1920" height="1126" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -541,16 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/Coding-1D-solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -567,13 +554,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/Multidimensional-solution.py">
+    <entry file="file://$PROJECT_DIR$/project/Systolic-pressure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="555">
+          <caret line="43" column="53" lean-forward="true" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#255#286#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/Coding-1D-solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="47" column="89" lean-forward="false" selection-start-line="47" selection-start-column="89" selection-end-line="47" selection-end-column="89" />
+          <folding>
+            <element signature="e#26#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/Generalization-and-overfitting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#73#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MachineLearningExamples/linear_regression_class/overfitting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -587,12 +602,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/Systolic-pressure.py">
+    <entry file="file://$PROJECT_DIR$/project/Multidimensional-solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="43" column="53" lean-forward="true" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
+        <state relative-caret-position="-168">
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
           <folding>
-            <element signature="e#255#286#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/L2-regularization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

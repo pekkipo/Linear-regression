@@ -44,3 +44,5 @@ r2 = 1 - d1.dot(d1)/d2.dot(d2)
 
 print("R-squared is {}".format(r2))
 # gives r-squared 0.99. Close to 1. Very good model
+
+# ADDING MORE DIMENSIONS IMPROVES R SQUARED! If is those dimensions are not useful at all
